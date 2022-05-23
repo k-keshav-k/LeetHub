@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://standardjs.com"><img src="assets/octocode.png" alt="LeetHub - Automatically sync your code to GitHub." width="400"></a>
   <br>
-  LeetHub - Automatically sync your code to GitHub.
+  <a href="https://chrome.google.com/webstore/detail/leethub/aciombdipochlnkbpcbgdpjffcfdbggi">LeetHub</a> - Automatically sync your code to GitHub.
   <br>
   <br>
 </h1>
@@ -36,6 +36,9 @@
   </td>
 </tr></table>
 
+## LeetHub progress and numbers (YouTube Video):
+[![LeetHub](https://user-images.githubusercontent.com/43754306/165053510-a757c95e-c3bc-49d5-995c-7a52368abd37.png)](https://www.youtube.com/watch?v=o33PIjqlOgw "LeetHub saves lives!")
+
 ## What is LeetHub?
 <p>A chrome extension that automatically pushes your code to GitHub when you pass all tests on a <a href="http://leetcode.com/">Leetcode</a> problem. </p>
 
@@ -54,7 +57,7 @@ Moreover, pushing code manually to GitHub from Leetcode is very time consuming. 
 
 ## How does LeetHub work?     
 
-<h4> Your LeetHub portfolio could like <a href="https://github.com/QasimWani/leetcode"> this </a>!  </h4>
+<h4> Your LeetHub portfolio could look like <a href="https://github.com/tanyarajhans/LeetCode"> this</a>!  </h4>
 <p>It's as simple as:</p>
 <ol>
   <li>After installation, launch LeetHub.</li>
